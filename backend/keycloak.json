@@ -1,0 +1,8 @@
+{
+  "realm": "apps",
+  "bearer-only": true,
+  "auth-server-url": "https://iam.mfs.eng.br/auth/",
+  "ssl-required": "external",
+  "resource": "frontend_dev",
+  "confidential-port": 0
+}
